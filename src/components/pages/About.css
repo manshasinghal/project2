@@ -1,0 +1,10 @@
+.move {
+    animation-name : mymove;
+    animation-iteration-count : infinite;
+    animation-direction : alternate;
+    animation-duration : 1s;
+  }
+  @keyframes mymove {
+    from {transform: translateY(0px);}
+    to {transform: translateY(16px);}
+  }

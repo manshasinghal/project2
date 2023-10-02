@@ -1,0 +1,14 @@
+.light {
+    background-color: white;
+    max-width:1400px;
+    height:450px;
+    margin-top: 0;
+    
+  }
+  
+ .dark {
+    background-color: #000;
+    max-width:1400px;
+    height:450px;  
+    color: aliceblue;
+}
